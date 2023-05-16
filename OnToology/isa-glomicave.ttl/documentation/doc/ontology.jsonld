@@ -5,52 +5,52 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasFileName"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasFileName"
   } ]
 }, {
   "@id" : "_:genid10",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/ProtocolComponent"
+    "@id" : "https://w3id.org/def/isa-glomicave/ProtocolComponent"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasComponent"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasComponent"
   } ]
 }, {
   "@id" : "_:genid11",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Parameter"
+    "@id" : "https://w3id.org/def/isa-glomicave/Parameter"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasParameter"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasParameter"
   } ]
 }, {
   "@id" : "_:genid12",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/StudyDesign"
+    "@id" : "https://w3id.org/def/isa-glomicave/StudyDesign"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasDesign"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasDesign"
   } ]
 }, {
   "@id" : "_:genid13",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Factor"
+    "@id" : "https://w3id.org/def/isa-glomicave/Factor"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasFactor"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasFactor"
   } ]
 }, {
   "@id" : "_:genid14",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Protocol"
+    "@id" : "https://w3id.org/def/isa-glomicave/Protocol"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasProtocol"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasProtocol"
   } ]
 }, {
   "@id" : "_:genid15",
@@ -86,28 +86,28 @@
   "@id" : "_:genid2",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Characteristic"
+    "@id" : "https://w3id.org/def/isa-glomicave/Characteristic"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasCharacteristic"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasCharacteristic"
   } ]
 }, {
   "@id" : "_:genid3",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Platform"
+    "@id" : "https://w3id.org/def/isa-glomicave/Platform"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasPlatform"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasPlatform"
   } ]
 }, {
   "@id" : "_:genid4",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Technology"
+    "@id" : "https://w3id.org/def/isa-glomicave/Technology"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasTechnology"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasTechnology"
   } ]
 }, {
   "@id" : "_:genid5",
@@ -117,7 +117,7 @@
     "@value" : "1"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasValue"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasValue"
   } ]
 }, {
   "@id" : "_:genid6",
@@ -126,25 +126,25 @@
     "@id" : "https://schema.org/Organization"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasAffiliation"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasAffiliation"
   } ]
 }, {
   "@id" : "_:genid7",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Source"
+    "@id" : "https://w3id.org/def/isa-glomicave/Source"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasInput"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasInput"
   } ]
 }, {
   "@id" : "_:genid8",
   "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
   "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Sample"
+    "@id" : "https://w3id.org/def/isa-glomicave/Sample"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasOutput"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasOutput"
   } ]
 }, {
   "@id" : "_:genid9",
@@ -153,7 +153,7 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ],
   "http://www.w3.org/2002/07/owl#onProperty" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasPerformer"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasPerformer"
   } ]
 }, {
   "@id" : "http://org.semanticweb.owlapi/error#Error1",
@@ -186,7 +186,7 @@
   "@id" : "http://purl.org/isatermspublication",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2002/07/owl#equivalentClass" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Publication"
+    "@id" : "https://w3id.org/def/isa-glomicave/Publication"
   } ]
 }, {
   "@id" : "http://purl.org/vocab/vann/preferredNamespacePrefix",
@@ -271,7 +271,7 @@
     "@value" : "author"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/",
+  "@id" : "https://w3id.org/def/isa-glomicave/",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
   "http://purl.org/dc/terms/creator" : [ {
     "@value" : "Aitor Corchero"
@@ -295,7 +295,7 @@
     "@id" : "https://glomicave.eu/"
   } ],
   "http://purl.org/dc/terms/source" : [ {
-    "@id" : "https://github.com/ColoDidac/glomicave-dd"
+    "@id" : "https://github.com/aolite/isa-glomicave"
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "en",
@@ -305,57 +305,57 @@
     "@value" : "glomicave"
   } ],
   "http://purl.org/vocab/vann/preferredNamespaceUri" : [ {
-    "@value" : "https://w3id.org/def/glomicave-dd/"
+    "@value" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2002/07/owl#priorVersion" : [ {
     "@id" : "https://github.com/ISA-tools/linkedISA-ontologies"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@value" : "v0.0.1"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Assay",
+  "@id" : "https://w3id.org/def/isa-glomicave/Assay",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "assay"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Characteristic",
+  "@id" : "https://w3id.org/def/isa-glomicave/Characteristic",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "characteristic"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Characteristics",
+  "@id" : "https://w3id.org/def/isa-glomicave/Characteristics",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Data",
+  "@id" : "https://w3id.org/def/isa-glomicave/Data",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -365,62 +365,62 @@
     "@id" : "_:genid1"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Factor",
+  "@id" : "https://w3id.org/def/isa-glomicave/Factor",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "factor"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Hardware",
+  "@id" : "https://w3id.org/def/isa-glomicave/Hardware",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "hardware"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/ProtocolComponent"
+    "@id" : "https://w3id.org/def/isa-glomicave/ProtocolComponent"
   } ],
   "http://www.w3.org/2002/07/owl#disjointWith" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Software"
+    "@id" : "https://w3id.org/def/isa-glomicave/Software"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Investigation",
+  "@id" : "https://w3id.org/def/isa-glomicave/Investigation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "An Investigation is used to record metadata relating to the description of the investigation context, such as the title and description of the investigation as well as about related people and scholarly publications. Study and Assay objects are grouped within an Investigation to record other metadata within the relevant contexts."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Investigation"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Material",
+  "@id" : "https://w3id.org/def/isa-glomicave/Material",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -434,14 +434,14 @@
     "@id" : "_:genid4"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Measurement",
+  "@id" : "https://w3id.org/def/isa-glomicave/Measurement",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -455,21 +455,21 @@
     "@id" : "_:genid5"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Parameter",
+  "@id" : "https://w3id.org/def/isa-glomicave/Parameter",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "parameter"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Person",
+  "@id" : "https://w3id.org/def/isa-glomicave/Person",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -488,28 +488,28 @@
     "@id" : "_:genid6"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Platform",
+  "@id" : "https://w3id.org/def/isa-glomicave/Platform",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "platform"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Process",
+  "@id" : "https://w3id.org/def/isa-glomicave/Process",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -523,14 +523,14 @@
     "@id" : "_:genid9"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Protocol",
+  "@id" : "https://w3id.org/def/isa-glomicave/Protocol",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -542,141 +542,141 @@
     "@id" : "_:genid11"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/ProtocolComponent",
+  "@id" : "https://w3id.org/def/isa-glomicave/ProtocolComponent",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "protocol component"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Publication",
+  "@id" : "https://w3id.org/def/isa-glomicave/Publication",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "The preparation and issuing of a investigation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Publication"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Qualitative",
+  "@id" : "https://w3id.org/def/isa-glomicave/Qualitative",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "qualitative"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Characteristic"
+    "@id" : "https://w3id.org/def/isa-glomicave/Characteristic"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Quantitative",
+  "@id" : "https://w3id.org/def/isa-glomicave/Quantitative",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "quantitative"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Characteristic"
+    "@id" : "https://w3id.org/def/isa-glomicave/Characteristic"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Role",
+  "@id" : "https://w3id.org/def/isa-glomicave/Role",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "role"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Sample",
+  "@id" : "https://w3id.org/def/isa-glomicave/Sample",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "sample"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Material"
+    "@id" : "https://w3id.org/def/isa-glomicave/Material"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Software",
+  "@id" : "https://w3id.org/def/isa-glomicave/Software",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "software"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/ProtocolComponent"
+    "@id" : "https://w3id.org/def/isa-glomicave/ProtocolComponent"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Source",
+  "@id" : "https://w3id.org/def/isa-glomicave/Source",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "source"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Material"
+    "@id" : "https://w3id.org/def/isa-glomicave/Material"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Study",
+  "@id" : "https://w3id.org/def/isa-glomicave/Study",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -690,56 +690,56 @@
     "@id" : "_:genid14"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/StudyDesign",
+  "@id" : "https://w3id.org/def/isa-glomicave/StudyDesign",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "study design"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/Technology",
+  "@id" : "https://w3id.org/def/isa-glomicave/Technology",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "technology"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/accessionNumber",
+  "@id" : "https://w3id.org/def/isa-glomicave/accessionNumber",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "performer"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/address",
+  "@id" : "https://w3id.org/def/isa-glomicave/address",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -749,14 +749,14 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/description",
+  "@id" : "https://w3id.org/def/isa-glomicave/description",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "A textual description of the investigation/study/assay."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -766,31 +766,31 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/doi",
+  "@id" : "https://w3id.org/def/isa-glomicave/doi",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "A unique identifier defined in DOI"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "DOI identifier"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/identifier"
+    "@id" : "https://w3id.org/def/isa-glomicave/identifier"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/email",
+  "@id" : "https://w3id.org/def/isa-glomicave/email",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -800,14 +800,14 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/feature_count",
+  "@id" : "https://w3id.org/def/isa-glomicave/feature_count",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -817,24 +817,24 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/file",
+  "@id" : "https://w3id.org/def/isa-glomicave/file",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "file"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasAffiliation",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasAffiliation",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -844,151 +844,151 @@
     "@id" : "https://schema.org/Organization"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasCharacteristic",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasCharacteristic",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has characteristics"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Characteristics"
+    "@id" : "https://w3id.org/def/isa-glomicave/Characteristics"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasComponent",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasComponent",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has component"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/ProtocolComponent"
+    "@id" : "https://w3id.org/def/isa-glomicave/ProtocolComponent"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasContact",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasContact",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "contacts"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Person"
+    "@id" : "https://w3id.org/def/isa-glomicave/Person"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasData",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasData",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has data"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Data"
+    "@id" : "https://w3id.org/def/isa-glomicave/Data"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasDate",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasDate",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has date"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasDesign",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasDesign",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "design type"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/StudyDesign"
+    "@id" : "https://w3id.org/def/isa-glomicave/StudyDesign"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasFactor",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasFactor",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "factor type"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Factor"
+    "@id" : "https://w3id.org/def/isa-glomicave/Factor"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasFileName",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasFileName",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "file name"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasInput",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasInput",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has input"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasMaterial",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasMaterial",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has material"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Material"
+    "@id" : "https://w3id.org/def/isa-glomicave/Material"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasName",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasName",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -998,150 +998,150 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasOrganization",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasOrganization",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has organization"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasOutput",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasOutput",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has output"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasParameter",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasParameter",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has parameter"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Parameter"
+    "@id" : "https://w3id.org/def/isa-glomicave/Parameter"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasPart",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasPart",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has part"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasPerformer",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasPerformer",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasPlatform",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasPlatform",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has platform"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Platform"
+    "@id" : "https://w3id.org/def/isa-glomicave/Platform"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasProcess",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasProcess",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has process"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Process"
+    "@id" : "https://w3id.org/def/isa-glomicave/Process"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasProtocol",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasProtocol",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has protocol"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Protocol"
+    "@id" : "https://w3id.org/def/isa-glomicave/Protocol"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasPublication",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasPublication",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "publications"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Publication"
+    "@id" : "https://w3id.org/def/isa-glomicave/Publication"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasRole",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasRole",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has role"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Role"
+    "@id" : "https://w3id.org/def/isa-glomicave/Role"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasTechnology",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasTechnology",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has technology"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/Technology"
+    "@id" : "https://w3id.org/def/isa-glomicave/Technology"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasType",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasType",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1151,28 +1151,28 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/hasValue",
+  "@id" : "https://w3id.org/def/isa-glomicave/hasValue",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "has Value"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/identifier",
+  "@id" : "https://w3id.org/def/isa-glomicave/identifier",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "A unique identifier is an identifier that uniquely identifies some thing"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1182,27 +1182,27 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#anyURI"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/isContactOf",
+  "@id" : "https://w3id.org/def/isa-glomicave/isContactOf",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "is contact of"
   } ],
   "http://www.w3.org/2002/07/owl#inverseOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/hasContact"
+    "@id" : "https://w3id.org/def/isa-glomicave/hasContact"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/performer",
+  "@id" : "https://w3id.org/def/isa-glomicave/performer",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1212,14 +1212,14 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/phone",
+  "@id" : "https://w3id.org/def/isa-glomicave/phone",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1229,31 +1229,31 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/pubmedIdentifier",
+  "@id" : "https://w3id.org/def/isa-glomicave/pubmedIdentifier",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "A unique identifier defined in PubMed"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "PubMed identifier"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/identifier"
+    "@id" : "https://w3id.org/def/isa-glomicave/identifier"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/status",
+  "@id" : "https://w3id.org/def/isa-glomicave/status",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1263,7 +1263,7 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/submissionDate",
+  "@id" : "https://w3id.org/def/isa-glomicave/submissionDate",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1273,7 +1273,7 @@
     "@value" : "The date on which the investigation/study/assay was reported to the repository"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1286,14 +1286,14 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#dateTime"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/title",
+  "@id" : "https://w3id.org/def/isa-glomicave/title",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : "A concise name given to the investigation/study/assay."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1303,14 +1303,14 @@
     "@id" : "http://www.w3.org/2001/XMLSchema#string"
   } ]
 }, {
-  "@id" : "https://w3id.org/def/glomicave-dd/version",
+  "@id" : "https://w3id.org/def/isa-glomicave/version",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
     "@value" : ""
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
-    "@id" : "https://w3id.org/def/glomicave-dd/"
+    "@id" : "https://w3id.org/def/isa-glomicave/"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
