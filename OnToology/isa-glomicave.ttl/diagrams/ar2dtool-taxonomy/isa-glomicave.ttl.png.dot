@@ -1,0 +1,14 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "glomicave:ProtocolComponent" "glomicave:Hardware" "glomicave:Software" "glomicave:Source" "glomicave:Person" "glomicave:Sample" "glomicave:Characteristic" "glomicave:Measurement" "glomicave:Material" "glomicave:Qualitative" "glomicave:Quantitative" ; /*classes style*/
+	"glomicave:Sample" -> "glomicave:Material" [ label = "rdfs:subClassOf" ];
+	"glomicave:Hardware" -> "glomicave:ProtocolComponent" [ label = "rdfs:subClassOf" ];
+	"glomicave:Source" -> "glomicave:Material" [ label = "rdfs:subClassOf" ];
+	"glomicave:Person" -> "schema:Person" [ label = "rdfs:subClassOf" ];
+	"glomicave:Measurement" -> "saref:Measurement" [ label = "rdfs:subClassOf" ];
+	"glomicave:Software" -> "glomicave:ProtocolComponent" [ label = "rdfs:subClassOf" ];
+	"glomicave:Qualitative" -> "glomicave:Characteristic" [ label = "rdfs:subClassOf" ];
+	"glomicave:Quantitative" -> "glomicave:Characteristic" [ label = "rdfs:subClassOf" ];
+
+}
